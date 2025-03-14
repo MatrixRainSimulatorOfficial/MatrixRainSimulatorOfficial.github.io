@@ -1,0 +1,13 @@
+Name info:
+
+Name: Matrix Rain Simulator
+Short Name: MRS
+MRS Stands for: Matrix Rain Simulator
+
+Game Info:
+
+Game Name: Matrix Rain Simulator
+Publisher: Ava Sophie (Flaky)
+Release date: December 7 2024
+First Version: 1.00
+Description: Matrix Rain Simulator is a game that simulates matrix.
